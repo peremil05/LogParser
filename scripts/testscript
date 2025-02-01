@@ -1,0 +1,3 @@
+in = ../logfiles/test.log
+out = ../outputfiles/
+// This is a comment.
